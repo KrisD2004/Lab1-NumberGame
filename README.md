@@ -1,6 +1,6 @@
 # Lab1-Numbers
 
-## Lab 1 
+# Lab 1 
 
 This C# console application serves as a practical demonstration of essential mathematical operations executed on an array of numerical values. 
 
