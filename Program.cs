@@ -73,7 +73,7 @@
             decimal quotient = product / divisor;
             if (divisor == 0)
             {
-                throw new DivideByZeroException();
+                throw new DivideByZeroException("Cannot divide by zero.");
             }
             Console.WriteLine("This is the quotient: {0}", quotient);
             return quotient;
